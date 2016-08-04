@@ -1,0 +1,28 @@
+_repo: A-Complete-Account-of-the-Settlement-at-Port-Jackson_3534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tench, Watkin
+    deathdate: 1833
+    gutenberg_agent_id: '1222'
+    url: http://www.gutenberg.org/2009/agents/1222
+    wikipedia: http://en.wikipedia.org/wiki/Watkin_Tench
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New South Wales -- Description and travel -- Early works to 1800'
+- !lcsh 'Penal colonies -- Australia -- New South Wales'
+- !lcc 'DU'
+- !lcsh 'Port Jackson (N.S.W.) -- History'
+- !lcsh 'New South Wales -- Discovery and exploration -- Early works to 1800'
+- GITenberg
+title: A Complete Account of the Settlement at Port Jackson
+url: http://www.gutenberg.org/ebooks/3534
